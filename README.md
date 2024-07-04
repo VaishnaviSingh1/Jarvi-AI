@@ -21,7 +21,7 @@ Installation
 -----------------
 **1.Clone the Repository:**
 
-git clone https://github.com/your/repository.git
+git clone https://github.com/VaishnaviSingh1/Jarvi-AI.git
 
 **2.Install Dependencies:**
 
